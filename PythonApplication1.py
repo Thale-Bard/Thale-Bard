@@ -1,4 +1,4 @@
-
+# This is a simple bare bones ti tac toe game made using the Turtle graphics module. I made it after week 1 of my Python Basics course.
 import turtle
 
 from turtle import *
